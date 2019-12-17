@@ -1,0 +1,3 @@
+[submodule "SixSixTime"]
+	path = SixSixTime
+	url = https://github.com/dconman/SixSixTime.git

@@ -1,3 +1,6 @@
 [submodule "SixSixTime"]
 	path = SixSixTime
 	url = https://github.com/dconman/SixSixTime.git
+[submodule "GameMechanics"]
+	path = GameMechanics
+	url = https://github.com/dconman/GameMechanics.git

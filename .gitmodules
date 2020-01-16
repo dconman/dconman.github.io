@@ -4,3 +4,6 @@
 [submodule "GameMechanics"]
 	path = GameMechanics
 	url = https://github.com/dconman/GameMechanics.git
+[submodule "EST"]
+	path = EST
+	url = https://github.com/dconman/EST.git
